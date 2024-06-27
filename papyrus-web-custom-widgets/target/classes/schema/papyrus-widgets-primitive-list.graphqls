@@ -1,0 +1,85 @@
+# *****************************************************************************
+# * Copyright (c) 2023, 2024 CEA LIST, Obeo.
+# *
+# * All rights reserved. This program and the accompanying materials
+# * are made available under the terms of the Eclipse Public License 2.0
+# * which accompanies this distribution, and is available at
+# * https://www.eclipse.org/legal/epl-2.0/
+# *
+# * SPDX-License-Identifier: EPL-2.0
+# *
+# * Contributors:
+# *  Obeo - Initial API and implementation
+# *****************************************************************************
+
+extend type FormDescription {
+  primitiveListCandidates(primitiveListId: ID!): [PrimitiveListCandidate!]!
+}
+
+type PrimitiveListWidget implements Widget {
+  id: ID!
+  label: String!
+  iconURL: [String!]!
+  diagnostics: [Diagnostic!]!
+  hasHelpText: Boolean!
+  readOnly: Boolean!
+  items: [PrimitiveListItem!]!
+  style: ListStyle
+  canAdd : Boolean!
+  canReorder: Boolean!
+  hasCandidates: Boolean!
+}
+
+type PrimitiveListCandidate {
+  value: String!
+  label: String!
+}
+
+extend type Mutation {
+  deletePrimitiveListItem(input: DeleteListItemInput!): DeleteListItemPayload!
+  addPrimitiveListItem(input: AddPrimitiveListItemInput!): AddPrimitiveListItemPayload!
+  reorderPrimitiveListItems(input: ReorderPrimitiveListItemsInput!): ReorderPrimitiveListItemsPayload!
+  actionPrimitiveListItem(input: ActionListItemInput!): ActionListItemPayload!
+}
+
+input AddPrimitiveListItemInput {
+  id: ID!
+  editingContextId: ID!
+  representationId: ID!
+  listId: ID!
+  newValue: String!
+}
+
+union AddPrimitiveListItemPayload = ErrorPayload | SuccessPayload
+
+type PrimitiveListItem {
+  id: ID!
+  label: String!
+  kind: String!
+  iconURL: [String!]!
+  deletable: Boolean!
+  hasAction: Boolean!
+  actionIconURL: String
+}
+
+input ReorderPrimitiveListItemsInput {
+  id: ID!
+  editingContextId: ID!
+  representationId: ID!
+  listId: ID!
+  itemId: ID!
+  fromIndex: Int!
+  toIndex: Int!
+}
+
+union ReorderPrimitiveListItemsPayload = ErrorPayload | SuccessPayload
+
+input ActionListItemInput {
+  id: ID!
+  editingContextId: ID!
+  representationId: ID!
+  listId: ID!
+  itemId: ID!
+}
+
+union ActionListItemPayload = ErrorPayload | SuccessPayload
