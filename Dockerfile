@@ -67,6 +67,9 @@ RUN mvn dependency:go-offline
 # Compila l'applicazione
 RUN mvn -DoutputFile=target/mvn-dependency-list.log -B -DskipTests clean dependency:list install
 
+# Compila l'applicazione e genera il file jar
+RUN mvn package -DskipTests
+
 # Copia il file jar dell'applicazione nella directory target
 COPY target/papyrus-web-application.jar .
 
