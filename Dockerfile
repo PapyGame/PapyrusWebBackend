@@ -53,8 +53,6 @@ RUN mkdir -p /root/.m2 \
     && echo '  </servers>' >> /root/.m2/settings.xml \
     && echo '</settings>' >> /root/.m2/settings.xml
 
-RUN cat /root/.m2/settings.xml
-
 # Definisci la directory di lavoro
 WORKDIR /app
 
@@ -64,14 +62,14 @@ COPY pom.xml .
 # Esegui il download delle dipendenze Maven (opzionale, ma utile per la cache)
 RUN mvn dependency:go-offline
 
-# Compila l'applicazione
-RUN mvn -DoutputFile=target/mvn-dependency-list.log -B -DskipTests clean dependency:list install
+# Compila il modulo papyrus-web-application
+RUN mvn -f papyrus-web-application/pom.xml -DoutputFile=target/mvn-dependency-list.log -B -DskipTests clean dependency:list install
 
 # Compila l'applicazione e genera il file jar
-RUN mvn package -DskipTests
+RUN mvn -f papyrus-web-application/pom.xml package -DskipTests
 
-# Copia il file jar dell'applicazione nella directory target
-COPY target/papyrus-web-application.jar .
+# Copia il file jar dell'applicazione nella directory di lavoro
+COPY papyrus-web-application/target/papyrus-web-application.jar .
 
 # Comando per eseguire l'applicazione Java
 CMD ["java", "-jar", "papyrus-web-application.jar", \
