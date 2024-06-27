@@ -57,7 +57,7 @@ RUN mkdir -p /root/.m2 \
 WORKDIR /app
 
 # Copia il file pom.xml e le dipendenze Maven (se necessario)
-COPY pom.xml .
+COPY . /app/
 
 # Esegui il download delle dipendenze Maven (opzionale, ma utile per la cache)
 RUN mvn dependency:go-offline
