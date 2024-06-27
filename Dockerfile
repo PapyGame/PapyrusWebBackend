@@ -6,7 +6,7 @@ ARG POSTGRES_USER
 ARG POSTGRES_PASSWORD
 ARG FILE_ID
 
-ENV MAVEN_VERSION=3.8.6
+# ENV MAVEN_VERSION=3.8.6
 
 # Scarica ed installa Maven
 # RUN apt-get update \
@@ -58,7 +58,7 @@ ENV MAVEN_VERSION=3.8.6
 WORKDIR /app
 
 # Copia il file pom.xml e le dipendenze Maven (se necessario)
-COPY . /app/
+# COPY . /app/
 
 # Esegui il download delle dipendenze Maven (opzionale, ma utile per la cache)
 # RUN mvn dependency:go-offline
@@ -75,7 +75,7 @@ COPY . /app/
 RUN wget --no-check-certificate "https://drive.google.com/uc?export=download&id=${FILE_ID}" -O ./papyrus-web-application-2024.2.1.jar
 
 # Comando per eseguire l'applicazione Java
-CMD ["java", "-jar", "papyrus-web-application-2024.2.1.jar", \
+CMD ["java", "-jar", "./papyrus-web-application-2024.2.1.jar", \
      "--spring.datasource.url=${POSTGRES_URL}", \
      "--spring.datasource.username=${POSTGRES_USER}", \
      "--spring.datasource.password=${POSTGRES_PASSWORD}", \
