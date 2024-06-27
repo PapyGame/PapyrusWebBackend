@@ -57,6 +57,8 @@ ARG FILE_ID
 # Definisci la directory di lavoro
 WORKDIR /app
 
+RUN apt-get update && apt-get install -y wget
+
 # Copia il file pom.xml e le dipendenze Maven (se necessario)
 # COPY . /app/
 
