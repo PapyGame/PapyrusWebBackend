@@ -64,9 +64,6 @@ COPY pom.xml .
 # Esegui il download delle dipendenze Maven (opzionale, ma utile per la cache)
 RUN mvn dependency:go-offline
 
-# Copia il codice sorgente dell'applicazione
-COPY src ./src
-
 # Compila l'applicazione
 RUN mvn -DoutputFile=target/mvn-dependency-list.log -B -DskipTests clean dependency:list install
 
