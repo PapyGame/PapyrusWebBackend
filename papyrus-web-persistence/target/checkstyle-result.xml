@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\main\java\org\eclipse\papyrus\web\persistence\entities\ProfileResourceEntity.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\main\java\org\eclipse\papyrus\web\persistence\repositories\IProfileRepository.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\architecture\ArchitectureConstants.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\architecture\CodingRulesTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\architecture\ConfigurationTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\architecture\RepositoryTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\architecture\SpringCodingRulesTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-persistence\src\test\java\org\eclipse\papyrus\web\persistence\repositories\TestPostgreSQLContainer.java">
+</file>
+</checkstyle>

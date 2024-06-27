@@ -1,0 +1,129 @@
+# *****************************************************************************
+# * Copyright (c) 2023, 2024 CEA LIST, Obeo.
+# *
+# * All rights reserved. This program and the accompanying materials
+# * are made available under the terms of the Eclipse Public License 2.0
+# * which accompanies this distribution, and is available at
+# * https://www.eclipse.org/legal/epl-2.0/
+# *
+# * SPDX-License-Identifier: EPL-2.0
+# *
+# * Contributors:
+# *  Obeo - Initial API and implementation
+# *****************************************************************************
+
+extend interface Viewer {
+  profileMetadatas: [UMLProfileMetadata!]!
+}
+
+extend type User {
+  profileMetadatas: [UMLProfileMetadata!]!
+}
+
+type UMLProfileMetadata {
+  label: String!
+  uriPath: String!
+}
+
+extend type EditingContext {
+  stereotypeMetatadas(elementId: ID!): [UMLStereotypeMetadata!]!
+  profileLastVersion(profileId: ID!): UMLProfileVersion
+  metaclassMetadatas: [UMLMetaclassMetadata]
+}
+  
+extend type RepresentationMetadata {  
+  isProfileDiagram: Boolean!
+}
+
+type UMLStereotypeMetadata {
+  id: String!
+  label: String!
+}
+type UMLProfileVersion {
+  major: Int!
+  minor: Int!
+  micro: Int!
+}
+
+type UMLMetaclassMetadata {
+	id: String!
+	name: String!
+	imagePath: String
+}
+
+extend type Mutation {
+  applyProfile(input: ApplyProfileInput!): ApplyProfilePayload!
+}
+
+input ApplyProfileInput {
+  id: ID!
+  editingContextId: ID!
+  modelId: ID!
+  profileUriPath: ID!
+}
+
+union ApplyProfilePayload = ErrorPayload|ApplyProfileSuccessPayload
+
+type ApplyProfileSuccessPayload {
+  id: ID!
+}
+
+extend type Mutation {
+  applyStereotype(input: ApplyStereotypeInput!): ApplyStereotypePayload!
+  publishProfile(input: PublishProfileInput!): PublishProfilePayload!
+  createMetaclassImport(input: CreateMetaclassImportInput): CreateMetaclassImportPayload
+  deletePublishedDynamicProfileByName(input : String!): DeleteProfilePayload
+}
+
+input ApplyStereotypeInput {
+  id: ID!
+  editingContextId: ID!
+  elementId: ID!
+  stereotypeId: ID!
+}
+
+union ApplyStereotypePayload = ErrorPayload|ApplyStereotypeSuccessPayload
+
+type ApplyStereotypeSuccessPayload {
+  id: ID!
+}
+
+union DeleteProfilePayload = ErrorPayload|DeleteProfileSuccessPayload
+
+type DeleteProfileSuccessPayload {
+  id: ID!
+}
+
+input PublishProfileInput {
+  id: ID!
+  editingContextId: ID!
+  objectId: ID!
+  version: String!
+  comment: String!
+  copyright: String!
+  author: String!
+  date: String!
+  saveOCLConstraint: Boolean!
+}
+
+input CreateMetaclassImportInput {
+	id: ID!
+	editingContextId: ID!
+	representationId: ID!
+	diagramElementId: ID!
+	metaclassIds: [ID!]!
+	x: Float!
+	y: Float!
+}
+
+union PublishProfilePayload = ErrorPayload | PublishProfileSuccessPayload
+
+type PublishProfileSuccessPayload {
+  id: ID!
+}
+
+union CreateMetaclassImportPayload = ErrorPayload | CreateMetaclassImportSuccessPayload
+
+type CreateMetaclassImportSuccessPayload {
+	id: ID!
+}

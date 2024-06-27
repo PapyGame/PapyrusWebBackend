@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\editingcontext\EditingContextMetaclassesDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\editingcontext\EditingContextProfileLastVersionDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\editingcontext\EditingContextStereotypesDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\editingcontext\RepresentationMetadataIsProfileDiagramDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\mutation\MutationApplyProfileDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\mutation\MutationApplyStereotypeDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\mutation\MutationCreateMetaclassImportDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\mutation\MutationDeletePublishedDynamicProfileDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\mutation\MutationPublishProfileDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\main\java\org\eclipse\papyrus\web\graphql\datafetchers\user\UserUMLProfileMetadatasDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\test\java\org\eclipse\papyrus\web\graphql\architecture\ArchitectureConstants.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-graphql\src\test\java\org\eclipse\papyrus\web\graphql\architecture\CodingRulesTests.java">
+</file>
+</checkstyle>

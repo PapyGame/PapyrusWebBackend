@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\DomainPropertiesConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\MonitoringConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\MultipleDomainPropertiesConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\PapyrusConnectorToolsProvider.java">
+<error line="76" column="5" severity="info" message="Cyclomatic Complexity is 13 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\PapyrusObjectService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\PapyrusRepresentationDescriptionProvider.java">
+<error line="57" column="1" severity="info" message="Class Data Abstraction Coupling is 13 (max allowed is 12) classes [ADDiagramDescriptionBuilder, CDDiagramDescriptionBuilder, CODDiagramDescriptionBuilder, CPDDiagramDescriptionBuilder, CSDDiagramDescriptionBuilder, DDDiagramDescriptionBuilder, ECrossReferenceAdapter, JsonResourceImpl, PADDiagramDescriptionBuilder, PRDDiagramDescriptionBuilder, ResourceSetImpl, SMDDiagramDescriptionBuilder, UCDDiagramDescriptionBuilder]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\RepresentationServicesProvider.java">
+<error line="85" column="5" severity="info" message="Cyclomatic Complexity is 13 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\SampleDomainNameProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\SiriusConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\SpringWebMvcConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\StudioProjectTemplatesInitializer.java">
+<error line="81" column="1" severity="info" message="Class Fan-Out Complexity is 48 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="330" column="5" severity="warning" message="NCSS for this method is 55 (max allowed is 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\StudioProjectTemplatesProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\UMLDetailViewFromBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\UMLEMFConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\UMLInit.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\UMLPropertiesConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\configuration\UMLStereotypeDescriptionRegistryConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\filters\PapyrusWebAuthenticationFilter.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\CuboidNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\CuboidNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\EllipseNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\EllipseNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\InnerFlagNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\InnerFlagNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\NoteNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\NoteNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\OuterFlagNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\OuterFlagNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\PackageNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\PackageNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\RectangleWithExternalLabelNodeStyle.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\nodes\RectangleWithExternalLabelNodeStyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\PapyrusApplication.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\properties\AdvancedPropertiesDescriptionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\properties\EBooleanIfDescriptionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\properties\NonDerivedNonContainmentReferenceIfDescriptionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\SampleDomainNameProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\services\DomainAttributeServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\services\EditingDomainServicesProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\services\ImagePathService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\services\VariableDocumentationGenerator.java">
+<error line="74" severity="warning" message="Character could cause encoding issue." source="illegal.regex.encoding"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\services\ViewerProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\EditSliderInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\EditSliderValueEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\MutationEditSliderDataFetcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\Slider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderComponent.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderComponentProps.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderDescription.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderDescriptionConverterProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderDescriptionConverterSwitch.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderDescriptionPreviewConverterProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderElementProps.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderWidgetDescriptionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\slider\SliderWidgetDescriptor.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\templates\ProfileProjectTemplateInitializer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\templates\ProfileProjectTemplateProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\templates\UMLProjectTemplateInitializer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\main\java\org\eclipse\papyrus\web\application\templates\UMLProjectTemplateProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\integration\view\ViewFormIdFormatTests.java">
+<error line="78" severity="warning" message="These are for debug/batch applications launches only. Remove them from production build." source="illegal.regex.badpractices"/>
+<error line="129" column="15" severity="warning" message="Comment matches to-do format &apos;TODO&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\properties\PrimitiveListViewRepresentationDescriptionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\properties\PrimitiveListWidgetIntegrationTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\activity\ActivityDiagramServiceTests.java">
+<error line="71" column="1" severity="info" message="Class Fan-Out Complexity is 34 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\activity\ActivityFeatureProviderTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\clazz\ClassDiagramTests.java">
+<error line="81" column="1" severity="info" message="Class Fan-Out Complexity is 39 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="1465" column="5" severity="info" message="Cyclomatic Complexity is 14 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\communication\CommunicationDiagramServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\component\ComponentDiagramServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\composite\CompositeStructureDiagramServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\deployment\DeploymentDiagramServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\pack\PackageDiagramTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\profile\ProfileDiagramServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\properties\UMLDocumentationServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\statemachine\StateMachineDiagramTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\services\usecase\UseCaseDiagramTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADGraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\ADSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\checker\ADActivityNodeWithPinsCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\checker\ADActivityNodeWithPinsDeletionGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\checker\ADObjectFlowOnOpaqueActionCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\utils\ADCreationTool.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\activity\utils\ADMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\Checker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\CombinedChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\CreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\CreationSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\DeletionGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\DeletionSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\EdgeCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\EdgeCreationSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\EdgeSourceGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\EdgeTargetGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\LabelGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\LabelSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\NodeCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\NodeCreationSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\NodeGraphicalDeletionSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\NodeGraphicalDnDGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\checker\NodeSemanticDeletionSemanticChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSubNodeEdgeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\CODSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\communication\utils\CODMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\checker\CPDInterfaceCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\checker\CPDInterfaceDeletionGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDEdgeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDGraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDTopNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDTopNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDTopNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\CPDTopNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\component\utils\CPDMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDEdgeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDGraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDTopNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDTopNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDTopNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\DDTopNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\deployment\utils\DDMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\checker\PRDClassifierCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\checker\PRDClassifierDeletionGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\checker\PRDEnumerationCreationGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\checker\PRDEnumerationDeletionGraphicalChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDEdgeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDGraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDTopNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDTopNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDTopNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\PRDTopNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\profile\utils\PRDMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\AbstractPapyrusWebTest.java">
+<error line="79" column="1" severity="info" message="Class Fan-Out Complexity is 39 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\DiagramCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\EdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\EdgeDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\EditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\GraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\NodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\NodeDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\ReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\ReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\test\SemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDEdgeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDEditLabelTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDGraphicalDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDReconnectEdgeSourceTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDReconnectEdgeTargetTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDSemanticDropTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDSubNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDSubNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDSubNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDSubNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDTopNodeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDTopNodeEdgeCreationTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDTopNodeGraphicalDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\UCDTopNodeSemanticDeletionTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\utils\UCDCreationTool.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\usecase\utils\UCDMappingTypes.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\tools\utils\CreationTool.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\uml\profile\UMLProfileServiceTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\AbstractWebUMLTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\AssociationTestCaseBuilder.java">
+<error line="113" column="5" severity="info" message="Cyclomatic Complexity is 13 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\ClassPathResourceFactory.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\ClassPathResourceURIHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\DiagramServiceTestHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\DiagramTestHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\EditingDomainFactory.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\ElementMatcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\FileViewRepresentationLoader.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\LabelStyleCheck.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\CreateChildMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\CreateDocumentMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\CreateProjectMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\CreateRepresentationMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\DeleteFromDiagramMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\DiagramEventSubscriptionRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\DropNodeMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\DropOnDiagramMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\EditLabelMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\GetPaletteToolQueryRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\InvokeSingleClickOnDiagramElementToolRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\InvokeSingleClickOnTwoDiagramElementsToolRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\ReconnectEdgeMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\RootObjectCreateMutationRunner.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\mutations\TestFeedbackMessageService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\SynchronizedDomainBasedEdgeCreationTestHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\SynchronizedDomainBasedEdgeTestHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-application\src\test\java\org\eclipse\papyrus\web\application\utils\SynchronizedFeatureEdgeTestHelper.java">
+</file>
+</checkstyle>

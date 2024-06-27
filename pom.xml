@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 2019, 2023 CEA LIST, Obeo.
+ This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License v2.0
+ which accompanies this distribution, and is available at
+ https://www.eclipse.org/legal/epl-2.0/
+
+ SPDX-License-Identifier: EPL-2.0
+
+ Contributors:
+     Obeo - initial API and implementation
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>papyrus-web</groupId>
+	<artifactId>papyrus-web</artifactId>
+	<version>2024.2.1</version>
+
+	<name>Papyrus Web</name>
+	<description>Papyrus Web</description>
+	<packaging>pom</packaging>
+
+
+	<!-- reminder
+	
+	 Update papyrus web version: mvn versions:set -DnewVersion=xxx.y.z
+	 
+	  -->
+	<modules>
+		<module>papyrus-web-parent</module>
+		<module>papyrus-web-frontend</module>
+		<module>papyrus-web-persistence</module>
+		<module>papyrus-web-services-api</module>
+		<module>papyrus-web-services</module>
+		<module>papyrus-web-graphql</module>
+		<module>papyrus-web-sirius-contributions</module>
+		<module>papyrus-web-application</module>
+		<module>papyrus-web-representation-builder</module>
+		<module>papyrus-web-properties-builder</module>
+		<module>papyrus-web-graphics</module>
+		<module>papyrus-web-tests</module>
+		<module>papyrus-web-customnodes</module>
+		<module>papyrus-web-customnodes-edit</module>
+
+		<!--Profiles -->
+
+		<module>papyrus-web-cpp-profile</module>
+		<module>papyrus-web-java-profile</module>
+		<module>papyrus-web-codegen-profile</module>
+		<module>papyrus-web-transformation-profile</module>
+
+		<!--Custom Widgets -->
+
+		<module>papyrus-web-custom-widgets</module>
+		<module>papyrus-web-custom-widgets-view</module>
+		<module>papyrus-web-custom-widgets-view-edit</module>
+
+		<!--Test -->
+		<module>papyrus-web-test-coverage</module>
+
+	</modules>
+
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>versions-maven-plugin</artifactId>
+					<configuration>
+						<processAllModules>true</processAllModules>
+					</configuration>
+
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+
+</project>

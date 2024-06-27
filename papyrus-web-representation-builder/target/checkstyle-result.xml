@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\configuration\UMLImagesLoader.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\AbstractRepresentationDescriptionBuilder.java">
+<error line="79" column="1" severity="info" message="Class Data Abstraction Coupling is 13 (max allowed is 12) classes [CallQuery, CallbackAdapter, IdBuilder, LabelConditionalStyleBuilder, ListCompartmentBuilder, NodeDescriptionBuilder, NodeSemanticCandidateExpressionTransformer, NoteStyleDescriptionBuilder, QueryHelper, StyleProvider, ToolComparator, UMLMetamodelHelper, ViewBuilder]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="79" column="1" severity="info" message="Class Fan-Out Complexity is 35 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\ADDiagramDescriptionBuilder.java">
+<error line="1848" column="5" severity="info" message="Cyclomatic Complexity is 13 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\AssociationEdgeCustomStyleBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\CDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\ClassDiagramServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\CODDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\CPDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\CSDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\DDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\PADDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\PRDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\SMDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\UCDDiagramDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\uml\UMLMetamodelHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\CallQuery.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\IfQuery.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\InstanceOfQuery.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\OperatorQuery.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\QueryHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\Services.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\aql\Variables.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\CallbackAdapter.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\EdgeConditionalStyleBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\LabelConditionalStyleBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\ListCompartmentBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\NodeDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\NodeSemanticCandidateExpressionTransformer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\NoteStyleDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\builders\ViewBuilder.java">
+<error line="73" column="1" severity="info" message="Class Fan-Out Complexity is 35 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\CreationToolsUtil.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\IdBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\main\java\org\eclipse\papyrus\web\application\representations\view\StyleProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\test\java\org\eclipse\papyrus\web\application\representations\uml\RepresentationValidatorTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\test\java\org\eclipse\papyrus\web\application\representations\utils\DiagramDescriptionDescriptionValidator.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-representation-builder\src\test\java\org\eclipse\papyrus\web\application\representations\view\builders\NoteStyleDescriptionBuilderTest.java">
+</file>
+</checkstyle>

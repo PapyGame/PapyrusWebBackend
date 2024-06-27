@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-codegen-profile\src\main\java\org\eclipse\papyrus\web\profile\cpp\CodeGenPathMapProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-codegen-profile\src\main\java\org\eclipse\papyrus\web\profile\cpp\CodegenProfileConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-codegen-profile\src\main\java\org\eclipse\papyrus\web\profile\cpp\CodeGenProfileProvider.java">
+</file>
+</checkstyle>

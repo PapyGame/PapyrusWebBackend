@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\ApplyProfileInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\ApplyProfileSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\ApplyStereotypeInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\ApplyStereotypeSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\CreateMetaclassImportInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\CreateMetaclassImportSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\CreateMetaclassToolReferencePositionProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\DeleteProfileSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetMetaclassMetadatasInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetMetaclassMetadatasSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetProfileLastVersionInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetProfileLastVersionSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetStereotypesInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\GetStereotypesSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\IsProfileDiagramInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\dto\IsProfileDiagramSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\IImageOverrideService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\pathmap\PathMapMetadata.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\profile\IUMLProfileProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\IUMLProfileService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\IUMLStereotypeService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\PublishProfileInput.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\PublishProfileSuccessPayload.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\UMLMetaclassMetadata.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\UMLProfileMetadata.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\main\java\org\eclipse\papyrus\web\services\api\uml\profile\UMLStereotypeMetadata.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\test\java\org\eclipse\papyrus\web\services\api\architecture\ArchitectureConstants.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services-api\src\test\java\org\eclipse\papyrus\web\services\api\architecture\CodingRulesTests.java">
+</file>
+</checkstyle>

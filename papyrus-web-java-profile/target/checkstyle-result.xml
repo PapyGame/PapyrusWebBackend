@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-java-profile\src\main\java\org\eclipse\papyrus\web\profile\java\JavaPathMapProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-java-profile\src\main\java\org\eclipse\papyrus\web\profile\java\JavaProfileConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-java-profile\src\main\java\org\eclipse\papyrus\web\profile\java\JavaProfileProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-java-profile\src\main\java\org\eclipse\papyrus\web\profile\java\UMLJavaProjectTemplateInitializer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-java-profile\src\main\java\org\eclipse\papyrus\web\profile\java\UMLJavaTemplateProvider.java">
+</file>
+</checkstyle>

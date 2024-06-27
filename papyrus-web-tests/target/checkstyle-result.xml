@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-tests\src\main\java\org\eclipse\papyrus\web\tests\utils\MockEditableChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-tests\src\main\java\org\eclipse\papyrus\web\tests\utils\MockLogger.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-tests\src\main\java\org\eclipse\papyrus\web\tests\utils\Status.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-tests\src\main\java\org\eclipse\papyrus\web\tests\utils\UMLTestHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-tests\src\test\java\org\eclipse\papyrus\web\sirius\contributions\Status.java">
+</file>
+</checkstyle>

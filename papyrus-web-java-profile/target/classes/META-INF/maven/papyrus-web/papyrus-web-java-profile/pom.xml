@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 2022, 2023 CEA LIST, Obeo.
+ This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License v2.0
+ which accompanies this distribution, and is available at
+ https://www.eclipse.org/legal/epl-2.0/
+
+ SPDX-License-Identifier: EPL-2.0
+
+ Contributors:
+     Obeo - initial API and implementation
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>papyrus-web</groupId>
+		<artifactId>papyrus-web-parent</artifactId>
+		<version>2024.2.1</version>
+		<relativePath>../papyrus-web-parent</relativePath>
+	</parent>
+	<artifactId>papyrus-web-java-profile</artifactId>
+	<name>papyrus-web-java-profile</name>
+	<description>Papyrus Web Java profile</description>
+
+
+	<dependencies>
+
+		<!-- Internal dependencies -->
+
+		<dependency>
+			<groupId>papyrus-web</groupId>
+			<artifactId>papyrus-web-services</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>papyrus-web</groupId>
+			<artifactId>papyrus-web-representation-builder</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>papyrus-web</groupId>
+			<artifactId>papyrus-web-sirius-contributions</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<!-- External Dependencies -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.uml2.plugins</groupId>
+			<artifactId>org.eclipse.uml2.uml</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.eclipse.uml2.plugins</groupId>
+			<artifactId>org.eclipse.uml2.uml.resources</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.uml2.plugins</groupId>
+			<artifactId>org.eclipse.uml2.common</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.uml2.plugins</groupId>
+			<artifactId>org.eclipse.uml2.types</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.eclipse.papyrus.designer</groupId>
+			<artifactId>org.eclipse.papyrus.designer.languages.java.profile</artifactId>
+			<version>3.0.0-SNAPSHOT</version>
+			<!-- Workaround for https://stackoverflow.com/questions/72625637/maven-build-failed-due-to-jdt-dependencies-no-versions-available-for-org-osgi -->
+			<exclusions>
+				<exclusion>
+					<groupId>org.osgi</groupId>
+					<artifactId>org.osgi.service.prefs</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.papyrus.designer</groupId>
+			<artifactId>org.eclipse.papyrus.designer.languages.java.library</artifactId>
+			<version>3.0.0-SNAPSHOT</version>
+			<!-- Workaround for https://stackoverflow.com/questions/72625637/maven-build-failed-due-to-jdt-dependencies-no-versions-available-for-org-osgi -->
+			<exclusions>
+				<exclusion>
+					<groupId>org.osgi</groupId>
+					<artifactId>org.osgi.service.prefs</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.papyrus.designer</groupId>
+			<artifactId>org.eclipse.papyrus.designer.languages.common.profile</artifactId>
+			<version>3.1.0-SNAPSHOT</version>
+			<!-- Workaround for https://stackoverflow.com/questions/72625637/maven-build-failed-due-to-jdt-dependencies-no-versions-available-for-org-osgi -->
+			<exclusions>
+				<exclusion>
+					<groupId>org.osgi</groupId>
+					<artifactId>org.osgi.service.prefs</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+	</dependencies>
+
+</project>

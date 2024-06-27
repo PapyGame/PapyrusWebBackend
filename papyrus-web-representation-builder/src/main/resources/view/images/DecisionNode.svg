@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="23.913055"
+   width="23.98175"
+   version="1.1"
+   id="fork"
+   sodipodi:docname="Choice.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="..\..\Documents\Choice.svg"
+   inkscape:export-xdpi="46.051632"
+   inkscape:export-ydpi="46.051632"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.72383"
+     inkscape:cx="24.607998"
+     inkscape:cy="25.119776"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="fork" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:#ffffff;stroke:#0b006b;stroke-width:1.58967;stroke-opacity:1"
+     d="M 1.1256822,11.945326 11.990875,1.1219076 22.856068,11.945326 11.990875,22.790047 Z"
+     id="lozenge" />
+</svg>

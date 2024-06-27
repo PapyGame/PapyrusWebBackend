@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramBuilderService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramDescriptionVisitor.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramElementHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramNavigationService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramNavigator.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\DiagramOperationsService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\EMFNavigationService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\IDiagramBuilderService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\IDiagramNavigationService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\IDiagramOperationsService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\IEMFNavigationService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\IViewDiagramDescriptionService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\ParentNodeQuery.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\query\NodeMatcher.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\ServiceOverride.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\StereotypeBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\UnloadingEditingContext.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-sirius-contributions\src\main\java\org\eclipse\papyrus\web\sirius\contributions\ViewDiagramDescriptionService.java">
+</file>
+</checkstyle>

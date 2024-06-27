@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\main\java\org\eclipse\papyrus\web\application\properties\builder\FirstEventWidgetBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\main\java\org\eclipse\papyrus\web\application\properties\builder\UMLDetailViewBuilderCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\main\java\org\eclipse\papyrus\web\application\properties\services\PapyrusDetailsPostProcessor.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ActionInputPinUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\AssociationClassUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\AssociationUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ConnectorEndUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\CreateLinkActionUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\CreateLinkObjectActionUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\DestroyLinkActionUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\DurationConstraintUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\DurationObservationUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ElementCommentsPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ElementImportUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ElementProfilePageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ExtensionEndUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\GeneralizationSetUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\InputPinUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\LiteralBooleanUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\LiteralIntegerUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\LiteralRealUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\LiteralUnlimitedNaturalUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\MemberEndGroupDescriptionBuilder.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\OperationTemplateParameterUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\OutputPinUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\PackageImportUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ParameterUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ProfileDefinitionDefinitionPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ProfileDefinitionPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\PropertyUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\StereotypeApplicationPage.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\ValuePinUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\man\java\org\eclipse\papyrus\web\application\properties\pages\VariableUmlPageCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\test\java\org\eclipse\papyrus\web\application\properties\PageDescriptionTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-properties-builder\src\test\java\org\eclipse\papyrus\web\application\properties\utils\PageDescriptionValidator.java">
+</file>
+</checkstyle>

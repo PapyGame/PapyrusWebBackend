@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\AbstractDiagramService.java">
+<error line="114" column="1" severity="info" message="Class Data Abstraction Coupling is 25 (max allowed is 12) classes [DefaultNamedElementNameProvider, DiagramElementHelper, DiagramNavigator, ElementBasedEdgeCreator, ElementConfigurer, ElementCreationChecker, ElementCreator, ElementDirectEditInputValueProvider, ElementDirectEditValueConsumer, ElementDomainBasedEdgeContainerProvider, ElementDomainBasedEdgeCreationChecker, ElementDomainBasedEdgeInitializer, ElementDomainBasedEdgeReconnectSourceBehaviorProvider, ElementDomainBasedEdgeReconnectTargetBehaviorProvider, ElementDomainBasedEdgeReconnectionSourceChecker, ElementDomainBasedEdgeReconnectionTargetChecker, ElementDomainBasedEdgeSourceProvider, ElementDomainBasedEdgeTargetsProvider, ElementFeatureModifier, GenericWebExternalDropBehaviorProvider, GenericWebInternalDropBehaviorProvider, KeywordLabelProvider, StereotypeLabelPrefixProvider, WebDiagramElementCreator, WebRepresentationQuerier]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="114" column="1" severity="info" message="Class Fan-Out Complexity is 70 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\activity\ActivityDiagramService.java">
+<error line="86" column="1" severity="info" message="Class Fan-Out Complexity is 42 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\activity\ActivityFeatureProvider.java">
+<error line="89" column="5" severity="info" message="Class Fan-Out Complexity is 35 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\activity\ActivityGraphicalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\activity\ActivityInputPreProcessor.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\activity\ActivitySemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\clazz\ClassDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\clazz\ClassSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\communication\CommunicationDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\communication\CommunicationInputPreProcessor.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\communication\CommunicationSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\component\ComponentDiagramService.java">
+<error line="60" column="1" severity="info" message="Class Fan-Out Complexity is 33 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\component\ComponentGraphicalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\component\ComponentSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\composite\CompositeStructureDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\composite\CompositeStructureSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\DebugService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\deployment\DeploymentDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\deployment\DeploymentGraphicalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\deployment\DeploymentSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\pakage\PackageDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\pakage\PackageSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\profile\ProfileDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\profile\ProfileGraphicalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\profile\ProfileSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesCrudServicesWrapper.java">
+<error line="326" column="5" severity="info" message="Cyclomatic Complexity is 12 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesHelpContentServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesImageServicesWrapper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesMemberEndServicesWrapper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesProfileServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\properties\PropertiesReferenceTypeServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\scope\ReachableElementsServices.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\ServiceLogger.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\statemachine\StateMachineDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\statemachine\StateMachineSemanticDiagramDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\useCase\UseCaseDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\useCase\UseCaseGraphicalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\useCase\UseCaseSemanticDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\AbstractDropSwitch.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\GenericDiagramService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\GenericWebExternalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\GenericWebInternalDropBehaviorProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\GraphicalDropSwitch.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\InvalidDropException.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\IViewHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\SemanticDropSwitch.java">
+<error line="361" column="5" severity="info" message="Cyclomatic Complexity is 12 (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\ViewHelper.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\utils\WebRepresentationQuerier.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\WebDiagramElementCreator.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\aqlservices\WebEditableChecker.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\configuration\PathMapConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\configuration\UMLProfileConfiguration.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\documents\DocumentServiceCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\documents\UploadDocumentEventHandlerCustomImpl.java">
+<error line="78" column="1" severity="info" message="Class Data Abstraction Coupling is 14 (max allowed is 12) classes [BufferedInputStream, BufferedReader, ByteArrayInputStream, ByteArrayOutputStream, ChangeDescription, ClassPathResource, EObjectRandomIDManager, ErrorPayload, InputStreamReader, JSONResourceFactory, ResourceMetadataAdapter, UMLResourceImpl, UploadDocumentSuccessPayload, XMIResourceImpl]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="78" column="1" severity="info" message="Class Fan-Out Complexity is 41 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\EditingContextSearchServiceCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\EditingDomainFactoryServiceCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\ApplyProfileEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\ApplyStereotypeEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\CreateMetaclassImportEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\GetMetaclassMetadatasEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\GetProfileLastVersionEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\GetStereotypesEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\handlers\IsProfileDiagramEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\NonUMLEditingContextCrossReferenceAdapter.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\PathmapResourceFactory.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\editingcontext\PathmapURIHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\explorer\ExplorerNavigationServiceCustomImpl.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\Monitoring.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\pathmap\DefaultUMLPathMapProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\pathmap\IStaticPathmapResourceRegistry.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\pathmap\StaticPathmapResourceRegistry.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\properties\UMLDocumentationService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\properties\UMLRedefinedTypeService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\representations\IRepresentationDescriptionOverrider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\representations\PapyrusDiagramDescriptionRegistryConfigurer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\representations\PapyrusRepresentationDescriptionRegistry.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\representations\ReferenceModelBrowerDescriptionOverrider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\representations\ViewRepresentationDescriptionSearchServiceCustomImpl.java">
+<error line="33" column="3" severity="warning" message="Comment matches to-do format &apos;TODO&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\template\TemplateInitializer.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\uml\profile\PublishProfileEventHandler.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\uml\profile\StandardProfileProvider.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\uml\profile\UMLProfileMetadataRegistry.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\uml\profile\UMLProfileService.java">
+<error line="71" column="1" severity="info" message="Class Data Abstraction Coupling is 13 (max allowed is 12) classes [ApplyProfileSuccessPayload, ByteArrayInputStream, ByteArrayOutputStream, Copier, DeleteProfileSuccessPayload, DynamicProfileConverter, ErrorPayload, ProfileDefinition, ProfileResourceEntity, ProfileVersion, PublishProfileSuccessPayload, UMLProfileMetadata, UMLProfileVersion]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="71" column="1" severity="info" message="Class Fan-Out Complexity is 41 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\main\java\org\eclipse\papyrus\web\services\uml\profile\UMLStereotypeService.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\architecture\ArchitectureConstants.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\architecture\CodingRulesTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\architecture\ImmutableTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\editingcontext\EditingContextSearchServiceCustomImplTests.java">
+<error line="51" column="1" severity="info" message="Class Data Abstraction Coupling is 14 (max allowed is 12) classes [ComposedAdapterFactory, DocumentEntity, EPackageRegistryImpl, EditingContextMetadata, EditingContextSearchServiceCustomImpl, EditingDomainFactoryServiceCustomImpl, IEditingContextProcessor.NoOp, IStaticPathmapResourceRegistry.NoOp, JSONResourceFactory, NoOpDocumentRepository, NoOpProfileRepository, NoOpProjectRepository, ProjectEntity, SimpleMeterRegistry]." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\editingcontext\EditingDomainFactoryServiceCustomImplTests.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\editingcontext\NoOpDocumentRepository.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\editingcontext\NoOpProfileRepository.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\editingcontext\NoOpProjectRepository.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\properties\PropertiesCrudServicesWrapperTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\properties\PropertiesHelpContentServicesTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\properties\PropertiesReferenceTypeServicesTest.java">
+</file>
+<file name="C:\Users\loren\Desktop\TIROCINIO\DevEnv\org.eclipse.papyrus-web\backend\papyrus-web-services\src\test\java\org\eclipse\papyrus\web\services\properties\ReachableElementsServicesTest.java">
+</file>
+</checkstyle>
