@@ -4,6 +4,7 @@ ARG GITHUB_ACCESS_TOKEN
 ARG POSTGRES_URL
 ARG POSTGRES_USER
 ARG POSTGRES_PASSWORD
+ARG FILE_ID
 
 ENV MAVEN_VERSION=3.8.6
 
@@ -70,6 +71,8 @@ COPY . /app/
 
 # Copia il file jar dell'applicazione nella directory di lavoro
 # COPY papyrus-web-application/target/papyrus-web-application.jar .
+
+RUN wget --no-check-certificate "https://drive.google.com/uc?export=download&id=${FILE_ID}" -O ./papyrus-web-application-2024.2.1.jar
 
 # Comando per eseguire l'applicazione Java
 CMD ["java", "-jar", "papyrus-web-application-2024.2.1.jar", \
